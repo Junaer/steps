@@ -1,0 +1,30 @@
+input {
+  margin-right: 15px;
+}
+
+.main_input {
+  display: flex;
+}
+
+.MainDataSteps {
+  margin-top: 25px;
+  border: 2px solid grey;
+  border-radius: 10px;
+}
+
+.StepField {
+  display: flex;
+}
+
+.date {
+  margin-right: 5rem;
+}
+
+.range {
+  margin-right: 30px;
+}
+
+.delete {
+  margin-left: 10rem;
+}
+
